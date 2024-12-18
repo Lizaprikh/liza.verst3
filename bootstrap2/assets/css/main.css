@@ -1,0 +1,285 @@
+html, body {
+    height: 100%;
+}
+body{
+    min-width: 320px;
+    font-family: "Poppins", sans-serif;
+    background-color: #E7E7E7;
+    
+      
+}
+@font-face {
+    font-family: 'Far cry cyr';
+    src: url('assets/fonts/Far Cry Cyr Regular_0.ttf');
+  }
+
+.glavn{
+    margin-top: 0.1vw;
+}
+.logo{
+    margin-left: -20vw;
+    width: 10.91vw;
+    height: 3.37vw;
+
+}
+.kor{
+    margin-top: -0.5vw;
+}
+.men{
+    background-color: none;
+    padding-left: 7vw;
+    margin-right: 3vw;
+    margin-left: 14vw;
+    margin-top: 1vw;
+    li{
+        margin-left: 2vw;
+    }
+}
+.text{
+    font-size: 3vw;
+    margin-top: -50.5vw;
+    font-family: "Far cry cyr", sans-serif;
+    letter-spacing: 0.3vw;
+}
+.text11{
+    font-size: 1.6vw;
+    margin-top: -1vw;
+    font-family: "Far cry cyr", sans-serif;
+    letter-spacing: 0.3vw;
+}
+.tt{
+    margin-top: 37vw;
+    text-align: center;
+}
+.text12{
+    text-decoration: none;
+    color: rgb(28, 28, 28);
+    font-size: 1.5vw;
+    background-color: white;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    border-radius: 0.1vw;
+    
+}
+.text13{
+    margin-top: -10vw;
+    text-decoration: none;
+    color: rgb(28, 28, 28);
+    font-size: 1.5vw;
+    background-color: white;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    margin-left: 5vw;
+    border-radius: 0.1vw;
+    
+}
+.nali{
+    color: #506A7B;
+    letter-spacing: 0.2vw;
+    margin-top: -7vw;
+}
+.nali1{
+    color: #506A7B;
+    letter-spacing: 0.3vw;
+    font-family: "Far cry cyr", sans-serif;
+    font-size: 2vw;
+    margin-top: -1vw;
+}
+
+.sek1{
+    margin-top: 20vw;
+}
+.z{
+    margin-top: 30vw;
+    margin-left: 47vw;
+    width: 4.17vw;
+    height: 3.33vw;
+}
+.text2{
+   font-size: 1.41vw;
+   margin-top: 2vw;
+}
+.ysl{
+    font-size: 5.21vw; 
+    margin-top: 7vw;
+}
+.claidr1{ 
+    width: 20.83vw;
+    height: 35.85vw;
+    margin-left: 38.6vw;
+    margin-top: 2vw;
+    border-radius: 1.5vw;
+}
+.claidr2{ 
+    width: 20.83vw;
+    height: 35.85vw;
+    margin-left: 38.6vw;
+    margin-top: 2vw;
+    border-radius: 1.5vw;
+
+}
+.claidr3{ 
+    width: 20.83vw;
+    height: 35.85vw;
+    margin-left: 38.6vw;
+    margin-top: 2vw;
+    border-radius: 1.5vw;
+}
+.Strel{
+    margin-left: 15vw;
+    width: 3.97vw;
+    height: 3.97vw;
+    margin-top: 10vw;
+
+}
+.Strel2{
+   margin-right: 15vw;
+   width: 3.97vw;
+   height: 3.97vw;
+   margin-top: 10vw;
+
+}
+.hokk{
+    width: 41.27vw;
+    height: 47.62vw;
+    margin-left: 45vw;
+    margin-top: -30vw;
+}
+.hokk1{
+    width: 9.12vw; 
+    height:9.58vw ;
+   margin-top: 3vw;
+   margin-left:14vw ;
+}
+.hokk2{
+    width: 9.12vw; 
+    height:9.58vw ;
+    margin-top: 3vw;
+    margin-left: 1vw;
+}
+.hokk3{
+    width: 9.12vw; 
+    height:9.58vw ;
+    margin-top: 3vw;
+    margin-left: 1vw;
+}
+.inf{
+    font-family: "Far cry cyr", sans-serif;
+    font-size: 1.2vw;
+    color: #2d3134dd;
+    margin-top: 14vw;
+    margin-left: 14vw;
+}
+.inf2{
+    font-size: 0.8vw;
+    color: #506A7B;
+    margin-left: 14vw;
+    margin-top: 1.3vw;
+}
+.ctr22{
+    margin-top: -12vw;
+}
+.ctr2{
+    text-decoration: none;
+    color: rgb(28, 28, 28);
+    font-size: 1vw;
+    background-color: #506A7B;
+    padding-left: 1.5vw;
+    padding-right: 1.5vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    border-radius: 0.22vw;
+    margin-left: 14vw;
+    
+}
+.lin{
+    margin-top: 17vw;
+    margin-left: 14vw;
+}
+.katt{
+    font-family: "Far cry cyr", sans-serif;
+    letter-spacing: 0.1vw;
+    color: #506A7B;
+    font-size: 4vw;
+    margin-top: -1vw;
+    margin-left: 6vw;
+}
+.katt1{
+    margin-top: 2vw;
+    width: 72.85vw;
+    height: 92.59vw;
+    margin-left: 5vw;
+}
+.konta1{
+    background-color: #2E3D48;
+    margin-top: 15vw;
+    padding-bottom: 2vw;
+    
+}
+
+.okno1{
+    margin-top: 10%;
+}             
+.logo2{
+    margin-top: 7vw;
+    margin-left: 40vw;
+    width: 11.91vw;
+    height: 4.37vw;
+
+}
+.konn1{
+    width: 3.64vw;
+    height: 3.64vw;
+    margin-top: -13vw;
+    margin-left: 12vw;
+}
+.konn2{
+    margin-top: -1vw;
+    width: 3.64vw;
+    height: 3.64vw;
+    margin-left: 11.8vw;
+}
+.konn3{
+    width: 3.64vw;
+    height: 3.64vw;
+    margin-top: -6.6vw;
+    margin-left: 11.8vw;
+}
+.ikon{
+    margin-left: 75vw;
+    margin-top: -11vw;
+    width: 13.96vw;
+    height: 11.97vw;
+}
+/* .kon2{
+    margin-top: -11vw;
+    margin-left: 7vw;
+    font-size: 1vw;
+    font-weight: 500;
+    line-height: 2vw;
+}
+.k1{
+    width: 1.59vw;
+    height:1.59vw;
+    margin-left: 71.5vw;
+    margin-top: -14.5vw;
+}
+.k2{
+    width: 1.59vw;
+    height:1.59vw;
+    margin-left: 71.5vw;
+    margin-top: -13.5vw;
+}
+.k3{
+    width: 1.59vw;
+    height:1.59vw;
+    margin-left: 71.5vw;
+    margin-top: -12vw;
+} */
+
+
+

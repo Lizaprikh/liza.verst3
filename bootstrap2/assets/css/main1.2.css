@@ -1,0 +1,123 @@
+html, body {
+    height: 100%;
+}
+body{
+    min-width: 320px;
+    font-family: "Poppins", sans-serif;
+    background-color: #E7E7E7;
+    
+      
+}
+@font-face {
+    font-family: 'Far cry cyr';
+    src: url('assets/fonts/Far Cry Cyr Regular_0.ttf');
+  }
+
+  .glavn{
+    margin-top: 0.1vw;
+}
+.logo{
+    margin-left: -20vw;
+    width: 10.91vw;
+    height: 3.37vw;
+
+}
+.kor{
+    margin-top: -0.5vw;
+}
+.men{
+    background-color: none;
+    padding-left: 7vw;
+    margin-right: 3vw;
+    margin-left: 14vw;
+    margin-top: 1vw;
+    li{
+        margin-left: 2vw;
+    }
+}
+.nali2{
+    color: #506A7B;
+    letter-spacing: 0.1vw;
+    font-family: "Far cry cyr", sans-serif;
+    font-size: 2vw;
+    margin-top: 6vw;
+    margin-left: 20vw;
+    border-bottom: #ffffff solid 0.5vw;
+    margin-right: 20vw;
+    
+}
+
+.konta1{
+    background-color: #2E3D48;
+    margin-top: 20vw;
+    padding-bottom: 3vw;
+    
+}
+
+.okno1{
+    margin-top: 10%;
+}             
+.logo2{
+    margin-top: 7vw;
+    margin-left: 40vw;
+    width: 11.91vw;
+    height: 4.37vw;
+
+}
+.konn1{
+    width: 3.64vw;
+    height: 3.64vw;
+    margin-top: -13vw;
+    margin-left: 12vw;
+}
+.konn2{
+    margin-top: -1vw;
+    width: 3.64vw;
+    height: 3.64vw;
+    margin-left: 11.8vw;
+}
+.konn3{
+    width: 3.64vw;
+    height: 3.64vw;
+    margin-top: -6.6vw;
+    margin-left: 11.8vw;
+}
+.ikon{
+    margin-left: 75vw;
+    margin-top: -11vw;
+    width: 13.96vw;
+    height: 11.97vw;
+}
+.nahi{
+    color: #506A7B;
+    letter-spacing: 0.01vw;
+    font-family: "Far cry cyr", sans-serif;
+    font-size: 5vw;
+    margin-left: 37vw;
+}
+.nahi1{
+    font-size: 1.6vw;
+    margin-top: 6vw;
+    margin-left: 10vw;
+   
+
+}
+.karrt{
+    width: 67.39vw;
+    height: 55.16vw;
+    margin-top: -10vw;
+    margin-left: 7vw;
+
+}
+.nahi2{
+    font-size: 1.6vw;
+    margin-top: -66.2vw;
+    margin-left: 52vw;
+}
+.karta2{
+    width: 74.04vw;
+    height: 60.81vw;
+    margin-top: 32vw;
+    margin-left: 3vw;
+}
+
